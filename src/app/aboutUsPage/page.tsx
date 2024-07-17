@@ -26,8 +26,8 @@ export default function AboutUs() {
                     With a deep passion for quality and an eye for the extraordinary, we quickly grew from a humble storefront to a beloved destination for toy enthusiasts of all ages.
                 </h1>
                 <div className="py-16 flex lg:flex-row flex-col justify-center gap-5 lg:gap-14">
-                    <Image src="/vintage-toy-shop6.jpg" width="500" height="100" alt="the old toy stars" />
-                    <Image src="/vintage-toy-shop5.jpg" width="500" height="100" alt="the old toy stars" />
+                    <Image src="/vintage-toy-shop6.jpg" width="500" height="100" alt="the old toy stars" priority />
+                    <Image src="/vintage-toy-shop5.jpg" width="500" height="100" alt="the old toy stars" priority />
                 </div>
                 <h1 className="text-xl">
                     Over the years, Toy Stars has celebrated numerous milestones, each marking a new chapter in our journey.
