@@ -3,6 +3,12 @@ import Link from "next/link"
 import TestimonyBrief from "./components/testimonyBrief"
 import MarqueeProducts from "@/components/marqueeProducts"
 import Leaders from "./components/teamsBrief"
+import { Metadata } from "next"
+
+export const metadata: Metadata = {
+  title: "Toy Stars",
+  description: "Home"
+};
 
 
 export default function HomePage() {

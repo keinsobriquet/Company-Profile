@@ -4,6 +4,11 @@ import Teams from "./components/worker";
 import Image from "next/image";
 
 
+export const metadata: Metadata = {
+  title: "Toy Stars",
+  description: "Teams"
+};
+
 
 export default function TeamsPage() {
   return (

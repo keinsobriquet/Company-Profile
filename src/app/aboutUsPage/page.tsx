@@ -1,6 +1,12 @@
 import Image from "next/image"
 import Leaders from "../homePage/components/teamsBrief"
 import Link from "next/link"
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+    title: "Toy Stars",
+    description: "About Us"
+  };
 
 export default function AboutUs() {
     return (

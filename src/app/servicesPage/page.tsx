@@ -1,6 +1,13 @@
 import Testimony from "@/components/testimony";
 import Image from "next/image";
 import ProductsFetch from "./components/productsFetch";
+import { Metadata } from "next";
+
+
+export const metadata: Metadata = {
+    title: "Toy Stars",
+    description: "Products"
+  };
 
 export default function ServicesPage() {
     return(
