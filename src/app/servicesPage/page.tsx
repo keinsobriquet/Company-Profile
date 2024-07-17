@@ -21,7 +21,7 @@ export default function ServicesPage() {
                 </h1>
             </div>
             <ProductsFetch/>
-            <div id="testimonyfull" className="">
+            <div id="testimonyfull">
                 <Testimony/>
             </div>
         </div>
