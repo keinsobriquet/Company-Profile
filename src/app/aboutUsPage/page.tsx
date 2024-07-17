@@ -41,7 +41,7 @@ export default function AboutUs() {
                     <Image src="/new-toy-shop3.jpg" width="500" height="100" alt="the new toy stars store" />
                     <Image src="/new-toy-shop-1.jpg" width="500" height="100" alt="the new toy stars store" />
                 </div>
-                <div className="py-8 pt-36 text-center text-4xl font-bold text-sky-800">
+                <div className="py-8 pt-20 text-center text-4xl font-bold text-sky-800">
                     <h1>
                         OUR LEADERSHIP
                     </h1>
